@@ -1,0 +1,11 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:50 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1447 Nov 10 20:31 angular-cookies.min.js
+-rw-r--r--    1 256052   297237       3388 Nov 10 20:31 angular-cookies.min.js.map
+-rw-r--r--    1 256052   297237       5861 Nov 10 20:31 angular-sanitize.min.js
+-rw-r--r--    1 256052   297237      10301 Nov 10 20:31 angular-sanitize.min.js.map
+-rw-r--r--    1 256052   297237       4038 Nov 10 20:31 angular-touch.min.js
+-rw-r--r--    1 256052   297237      10946 Nov 10 20:31 angular-touch.min.js.map
+-rw-r--r--    1 256052   297237     160048 Nov 10 20:31 angular.min.js
+-rw-r--r--    1 256052   297237     430959 Nov 10 20:31 angular.min.js.map
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:13 plugins

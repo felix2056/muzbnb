@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="35px" viewBox="0 0 42 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>beds-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-Listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="Muzbnb-SingleListing-1.1" transform="translate(-840.000000, -624.000000)" stroke="#222829">
+            <g id="listing-header" transform="translate(133.000000, 545.000000)">
+                <g id="listing-characteristics" transform="translate(221.000000, 75.000000)">
+                    <g id="2-beds" transform="translate(475.000000, 5.000000)">
+                        <g id="beds-icon" transform="translate(11.000000, 0.000000)">
+                            <g id="23-bedroom">
+                                <g id="_x32_3_x5F_bedroom" stroke-width="1.5">
+                                    <g id="Group">
+                                        <path d="M40.03125,18.7647059 L40.03125,32.3529412 L37.40625,32.3529412 L37.40625,28.4705882 L4.59375,28.4705882 L4.59375,32.3529412 L1.96875,32.3529412 L1.96875,18.7647059 C1.96875,16.2631765 4.0254375,14.2352941 6.5625,14.2352941 L35.4375,14.2352941 C37.9745625,14.2352941 40.03125,16.2631765 40.03125,18.7647059 Z" id="Shape"></path>
+                                        <path d="M5.25,14.2352941 L5.25,4.52941176 C5.25,2.02788235 7.3066875,0 9.84375,0 L32.15625,0 C34.6933125,0 36.75,2.02788235 36.75,4.52941176 L36.75,14.2352941" id="Shape"></path>
+                                        <g transform="translate(7.875000, 6.470588)" id="Shape">
+                                            <path d="M0,5.82352941 L0,3.23529412 C0,1.44811765 1.4686875,0 3.28125,0 L8.53125,0 C10.3438125,0 11.8125,1.44811765 11.8125,3.23529412 L11.8125,5.82352941"></path>
+                                            <path d="M14.4375,5.82352941 L14.4375,3.23529412 C14.4375,1.44811765 15.9061875,0 17.71875,0 L22.96875,0 C24.7813125,0 26.25,1.44811765 26.25,3.23529412 L26.25,5.82352941"></path>
+                                        </g>
+                                        <path d="M38.0625,25 L3.9375,25" id="Shape"></path>
+                                        <path d="M20.34375,2 L21.65625,2" id="Shape"></path>
+                                        <path d="M17.71875,2 L19.03125,2" id="Shape"></path>
+                                        <path d="M22.96875,2 L24.28125,2" id="Shape"></path>
+                                        <path d="M0,32 L42,32" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

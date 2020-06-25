@@ -1,0 +1,7 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:37 .
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:17 ..
+-rw-r--r--    1 256052   297237       1364 Nov 10 21:17 examples.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 exemplary
+-rw-r--r--    1 256052   297237        444 Nov 10 21:17 run.sh
+-rw-r--r--    1 256052   297237       1146 Nov 10 21:17 test.html
+-rw-r--r--    1 256052   297237       1470 Nov 10 21:17 visual_specs.js

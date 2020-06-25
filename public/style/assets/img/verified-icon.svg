@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="35px" viewBox="0 0 38 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>verified-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Single-Listing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" opacity="0.300000012" stroke-linejoin="round">
+        <g id="Muzbnb-SingleListin" transform="translate(-557.000000, -3585.000000)" stroke="#000000">
+            <g id="about-your-host" transform="translate(133.000000, 3275.000000)">
+                <g id="Group-39" transform="translate(7.000000, 92.000000)">
+                    <g id="Group-38" transform="translate(394.000000, 219.000000)">
+                        <g id="verified-icon" transform="translate(24.000000, 0.000000)">
+                            <g id="thin-0718-user-profile-successful-check-verified">
+                                <g id="Layer_1" stroke-width="1.5">
+                                    <g id="Group">
+                                        <path d="M21,20.9130435 C20.2391304,20.4565217 19.7826087,20 19.7826087,19.5434783 L19.7826087,18.0217391 C20.8478261,16.9565217 21.6086957,15.4347826 22.0652174,13.7608696 C23.1304348,13 23.4347826,11.326087 22.5217391,10.1086957 L22.5217391,6.45652174 C22.5217391,2.80434783 20.5434783,0.369565217 15.9782609,0.369565217 C11.5652174,0.369565217 9.43478261,2.80434783 9.43478261,6.45652174 L9.43478261,9.95652174 C8.52173913,11.173913 8.82608696,12.8478261 9.89130435,13.7608696 C10.3478261,15.4347826 11.1086957,16.9565217 12.173913,18.0217391 L12.173913,19.5434783 C11.7173913,21.0652174 6.23913043,23.5 1.36956522,25.326087 C0.913043478,25.4782609 0.608695652,25.9347826 0.608695652,26.3913043 L0.608695652,28.0652174" id="Shape"></path>
+                                        <circle id="Oval" cx="29.0652174" cy="26.3913043" r="6.54347826"></circle>
+                                        <path d="M27.8478261,28.9782609 L32.1086957,24.5652174" id="Shape"></path>
+                                        <path d="M27.8478261,28.9782609 L25.8695652,27" id="Shape"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

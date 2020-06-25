@@ -1,0 +1,111 @@
+.tooltip {
+  position: absolute;
+  z-index: 999;
+  min-width: 40px;
+  white-space: nowrap;
+  cursor: default;
+  left: -1000;
+  top: -1000;
+  padding: 5px 10px;
+  font: bold 12px helvetica, tahoma, sans-serif;
+  text-align: left;
+  color: #ffffff;
+  background: #333333;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  border-radius: 3px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding-box;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding;
+  -ms-background-clip: padding;
+  background-clip: padding-box;
+  -webkit-box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+.tooltip:before {
+  content: '';
+  display: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  border: 5px solid #333333;
+}
+.tooltip-t:before,
+.tooltip-b:before {
+  left: 50%;
+  margin-left: -5px;
+  display: block;
+}
+.tooltip-r:before,
+.tooltip-l:before {
+  margin-top: -5px;
+  top: 50%;
+  display: block;
+}
+.tooltip-tr:before,
+.tooltip-br:before {
+  left: 5px;
+  margin: 0;
+}
+.tooltip-tl:before,
+.tooltip-bl:before {
+  left: auto;
+  margin: 0;
+  right: 5px;
+}
+.tooltip-rt:before,
+.tooltip-lt:before {
+  margin: 0;
+  top: auto;
+  bottom: 5px;
+}
+.tooltip-rb:before,
+.tooltip-lb:before {
+  margin: 0;
+  top: 5px;
+}
+.tooltip-t:before {
+  border-top-color: #333333;
+  border-bottom-width: 0;
+  bottom: -5px;
+}
+.tooltip-b:before {
+  border-bottom-color: #333333;
+  border-top-width: 0;
+  top: -5px;
+}
+.tooltip-r:before {
+  border-right-color: #333333;
+  border-left-width: 0;
+  left: -5px;
+}
+.tooltip-l:before {
+  border-left-color: #333333;
+  border-right-width: 0;
+  right: -5px;
+}
+.tooltip-rt:before {
+  border-right-color: #333333;
+}
+.tooltip-lt:before {
+  border-left-color: #333333;
+}
+.tooltip-rb:before {
+  border-right-color: #333333;
+}
+.tooltip-lb:before {
+  border-left-color: #333333;
+}
+.tooltip-t:before,
+.tooltip-b:before {
+  border-left-color: transparent !important;
+  border-right-color: transparent !important;
+}
+.tooltip-r:before,
+.tooltip-l:before {
+  border-top-color: transparent !important;
+  border-bottom-color: transparent !important;
+}

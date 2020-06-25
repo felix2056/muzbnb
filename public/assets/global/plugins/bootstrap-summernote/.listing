@@ -1,0 +1,7 @@
+drwxr-xr-x    4 256052   297237       4096 Nov 10 20:50 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:50 font
+drwxr-xr-x    2 256052   297237       8192 Nov 10 20:50 lang
+-rw-r--r--    1 256052   297237      13198 Nov 10 20:31 summernote.css
+-rw-r--r--    1 256052   297237     200312 Nov 10 20:31 summernote.js
+-rw-r--r--    1 256052   297237      88856 Nov 10 20:31 summernote.min.js

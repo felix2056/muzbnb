@@ -1,0 +1,8 @@
+drwxr-xr-x    6 256052   297237       4096 Nov 10 21:17 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1094 Nov 10 20:36 LICENSE
+-rw-r--r--    1 256052   297237       1408 Nov 10 20:36 README.md
+drwxr-xr-x   17 256052   297237       4096 Nov 10 21:18 addon
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:03 lib
+drwxr-xr-x  108 256052   297237      12288 Nov 10 21:25 mode
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:03 theme

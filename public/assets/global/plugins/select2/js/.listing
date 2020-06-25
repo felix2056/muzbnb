@@ -1,0 +1,7 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:12 .
+drwxr-xr-x    5 256052   297237       4096 Nov 10 20:49 ..
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:12 i18n
+-rw-r--r--    1 256052   297237     161832 Nov 10 20:49 select2.full.js
+-rw-r--r--    1 256052   297237      75005 Nov 10 20:49 select2.full.min.js
+-rw-r--r--    1 256052   297237     141934 Nov 10 20:49 select2.js
+-rw-r--r--    1 256052   297237      66664 Nov 10 20:49 select2.min.js

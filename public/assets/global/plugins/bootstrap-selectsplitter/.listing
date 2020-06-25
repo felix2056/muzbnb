@@ -1,0 +1,6 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:30 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1080 Nov 10 20:30 LICENSE
+-rw-r--r--    1 256052   297237       2543 Nov 10 20:30 README.md
+-rw-r--r--    1 256052   297237       7977 Nov 10 20:30 bootstrap-selectsplitter.js
+-rw-r--r--    1 256052   297237       3299 Nov 10 20:30 bootstrap-selectsplitter.min.js

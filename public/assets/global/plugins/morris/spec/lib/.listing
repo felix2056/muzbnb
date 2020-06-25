@@ -1,0 +1,12 @@
+drwxr-xr-x    7 256052   297237       4096 Nov 10 21:37 .
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:17 ..
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 area
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 bar
+-rw-r--r--    1 256052   297237       1326 Nov 10 21:17 commas_spec.coffee
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 donut
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 grid
+-rw-r--r--    1 256052   297237       2220 Nov 10 21:17 hover_spec.coffee
+-rw-r--r--    1 256052   297237       6726 Nov 10 21:17 label_series_spec.coffee
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:37 line
+-rw-r--r--    1 256052   297237        588 Nov 10 21:17 pad_spec.coffee
+-rw-r--r--    1 256052   297237       2020 Nov 10 21:17 parse_time_spec.coffee

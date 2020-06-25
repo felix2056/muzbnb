@@ -1,0 +1,12 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:45 .
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:41 ..
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:45 data
+-rw-r--r--    1 256052   297237       2009 Nov 10 21:41 gauge_json.html
+-rw-r--r--    1 256052   297237       1747 Nov 10 21:41 map_json.html
+-rw-r--r--    1 256052   297237       2023 Nov 10 21:41 pie_csv.html
+-rw-r--r--    1 256052   297237       1542 Nov 10 21:41 pie_json.html
+-rw-r--r--    1 256052   297237       3394 Nov 10 21:41 serial2_json.html
+-rw-r--r--    1 256052   297237       4170 Nov 10 21:41 serial_csv.html
+-rw-r--r--    1 256052   297237       4014 Nov 10 21:41 serial_json.html
+-rw-r--r--    1 256052   297237       4052 Nov 10 21:41 serial_with_dynamic_graphs.html
+-rw-r--r--    1 256052   297237      12060 Nov 10 21:41 stock_csv_data_and_events.html

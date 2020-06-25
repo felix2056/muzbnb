@@ -1,0 +1,64 @@
+.homepage-slides-wrapper
+{
+    position: relative;
+
+}
+.slide-bg-1,.slide-bg-2,.slide-bg-3
+{
+    position: absolute;
+    max-width: 100%;
+    height: 710px;
+    margin: 0 auto;
+}
+.slide-bg-1 {
+    background: url(assets/img/hero_pic.png)no-repeat center;
+    background-size: cover;
+    animation:fade 9s infinite;
+    -webkit-animation:fade 9s infinite;
+}
+.slide2 {
+    background: url(assets/img/slider-bg-img-2.png)no-repeat center;
+    background-size: cover;
+    animation:fade2 9s infinite;
+    -webkit-animation:fade2 9s infinite;
+}
+.slide3 {
+    background: url(assets/img/slide-bd-1.jpg)no-repeat center;
+    background-size: cover;
+    animation:fade3 9s infinite;
+    -webkit-animation:fade3 9s infinite;
+}
+@keyframes fade
+{
+    0%   {opacity:1}
+    33.333% { opacity: 0}
+    66.666% { opacity: 0}
+    100% { opacity: 1}
+}
+@keyframes fade2
+{
+    0%   {opacity:0}
+    33.333% { opacity: 1}
+    66.666% { opacity: 0 }
+    100% { opacity: 0}
+}
+@keyframes fade3
+{
+    0%   {opacity:0}
+    33.333% { opacity: 0}
+    66.666% { opacity: 1}
+    100% { opacity: 0}
+}
+
+.header-search-bar #searchSubmit {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    width: 42px;
+    height: 42px;
+    text-indent: -9999px;
+    color: transparent;
+    border: none;
+    background: url(assets/img/search_button.svg) transparent;
+    background-size: cover;
+}

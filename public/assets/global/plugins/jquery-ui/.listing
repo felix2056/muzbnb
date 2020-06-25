@@ -1,0 +1,6 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:53 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1817 Nov 10 20:32 LICENSE.txt
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:53 images
+-rw-r--r--    1 256052   297237      30656 Nov 10 20:32 jquery-ui.min.css
+-rw-r--r--    1 256052   297237     247500 Nov 10 20:32 jquery-ui.min.js

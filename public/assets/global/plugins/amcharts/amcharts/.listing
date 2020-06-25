@@ -1,0 +1,15 @@
+drwxr-xr-x    7 256052   297237       4096 Nov 10 21:35 .
+drwxr-xr-x    5 256052   297237       4096 Nov 10 20:46 ..
+-rw-r--r--    1 256052   297237     212199 Nov 10 20:46 amcharts.js
+-rw-r--r--    1 256052   297237       8616 Nov 10 20:46 funnel.js
+-rw-r--r--    1 256052   297237       2520 Nov 10 20:46 gantt.js
+-rw-r--r--    1 256052   297237      11451 Nov 10 20:46 gauge.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:06 images
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:05 lang
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:35 patterns
+-rw-r--r--    1 256052   297237       5570 Nov 10 20:46 pie.js
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:35 plugins
+-rw-r--r--    1 256052   297237       6615 Nov 10 20:46 radar.js
+-rw-r--r--    1 256052   297237      26600 Nov 10 20:46 serial.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:05 themes
+-rw-r--r--    1 256052   297237       9421 Nov 10 20:46 xy.js

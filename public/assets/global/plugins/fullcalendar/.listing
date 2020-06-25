@@ -1,0 +1,14 @@
+drwxr-xr-x    5 256052   297237       4096 Nov 10 20:53 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237      37009 Nov 10 20:32 changelog.txt
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:13 demos
+-rw-r--r--    1 256052   297237      24457 Nov 10 20:32 fullcalendar.css
+-rw-r--r--    1 256052   297237     319309 Nov 10 20:32 fullcalendar.js
+-rw-r--r--    1 256052   297237      11764 Nov 10 20:32 fullcalendar.min.css
+-rw-r--r--    1 256052   297237      98475 Nov 10 20:32 fullcalendar.min.js
+-rw-r--r--    1 256052   297237       5383 Nov 10 20:32 fullcalendar.print.css
+-rw-r--r--    1 256052   297237       5727 Nov 10 20:32 gcal.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:53 lang
+-rw-r--r--    1 256052   297237     114256 Nov 10 20:32 lang-all.js
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:13 lib
+-rw-r--r--    1 256052   297237       1053 Nov 10 20:32 license.txt

@@ -1,0 +1,10 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:14 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1066 Nov 10 20:32 LICENSE
+-rw-r--r--    1 256052   297237       2208 Nov 10 20:32 README.md
+drwxr-xr-x    6 256052   297237       4096 Nov 10 21:14 assets
+-rw-r--r--    1 256052   297237       1476 Nov 10 20:32 owl.carousel.css
+-rw-r--r--    1 256052   297237      52797 Nov 10 20:33 owl.carousel.js
+-rw-r--r--    1 256052   297237      23890 Nov 10 20:32 owl.carousel.min.js
+-rw-r--r--    1 256052   297237       1665 Nov 10 20:32 owl.theme.css
+-rw-r--r--    1 256052   297237       4476 Nov 10 20:32 owl.transitions.css

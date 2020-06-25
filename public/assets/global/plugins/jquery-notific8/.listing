@@ -1,0 +1,10 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:34 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       4893 Nov 10 20:34 README.md
+-rw-r--r--    1 256052   297237       2473 Nov 10 20:34 _notific8.scss
+-rw-r--r--    1 256052   297237        560 Nov 10 20:34 _themes.scss
+-rw-r--r--    1 256052   297237       7188 Nov 10 20:34 jquery.notific8.js
+-rw-r--r--    1 256052   297237       4761 Nov 10 20:34 jquery.notific8.min.css
+-rw-r--r--    1 256052   297237       3383 Nov 10 20:34 jquery.notific8.min.js
+-rw-r--r--    1 256052   297237        515 Nov 10 20:34 jquery.notific8.scss
+-rw-r--r--    1 256052   297237       1322 Nov 10 20:34 notific8.jquery.json

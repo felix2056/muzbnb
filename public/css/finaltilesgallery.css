@@ -1,0 +1,354 @@
+.final-tiles-gallery {
+  position: relative;
+}
+
+.final-tiles-gallery .ftg-items .tile {
+  cursor: pointer;
+}
+
+.final-tiles-gallery .tile img.item {
+  -moz-transition: -moz-transform 0.2s, opacity 0.2s linear;
+  -o-transition: -o-transform 0.2s, opacity 0.2s linear;
+  -webkit-transition: -webkit-transform 0.2s, opacity 0.2s linear;
+  transition: transform .2s linear;
+  display: block;
+  position: relative;
+  width: 100%;
+}
+.final-tiles-gallery .tile.ftg-enlarged img {
+  display: block;
+  margin: auto;
+}
+.final-tiles-gallery .tile {
+  float: left;
+  overflow: hidden;
+  margin: 0;
+  opacity: 0;
+}
+.final-tiles-gallery .tile.ftg-loaded {
+  /*display: block;*/
+  opacity: 1;
+}
+.final-tiles-gallery .tile.ftg-hidden {
+  -moz-transform: scale(0);
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  opacity: 0;
+}
+.final-tiles-gallery .edge {
+  position: absolute;
+  z-index: 1000;
+  background: #333;
+  color: #fff;
+  font-size: 11px;
+  padding: 4px;
+  font-family: sans-serif;
+}
+.final-tiles-gallery .edge.enlarged-true {
+  color: yellow;
+}
+.final-tiles-gallery .ftg-social {
+  position: absolute;
+  transition: all .5s;
+  z-index: 10;
+  /*box-shadow: 0px 0px 12px #333;*/
+}
+.final-tiles-gallery .ftg-social a {
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  font-size: 16px;
+  transition: all .3s;
+}
+.final-tiles-gallery .ftg-social a:hover {
+  color: #ccc;
+}
+.final-tiles-gallery .hover {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: #000;
+  background-color: rgba(0, 0, 0, 0.7);
+  transition: all .3s;
+  opacity: 0;
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+.final-tiles-gallery .hover .icon {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  color: #fff;
+  font-size: 20px;
+}
+.final-tiles-gallery .tile:hover .hover {
+  opacity: 1;
+}
+.final-tiles-gallery .tile iframe.item {
+  width: 100%;
+}
+.final-tiles-gallery .ftg-filters {
+  margin-bottom: 20px;
+}
+.final-tiles-gallery .ftg-filters a {
+  display: inline-block;
+  margin-right: 10px;
+  color: #777;
+  padding: 4px 10px;
+  border: 1px solid #777;
+  text-decoration: none;
+  outline: 0;
+  text-shadow: none;
+  box-shadow: none;
+}
+.final-tiles-gallery .ftg-filters a:hover,
+.final-tiles-gallery .ftg-filters a.selected {
+  color: #000;
+  border-color: #333;
+  text-decoration: none;
+}
+/* EFFECT: IMG FADE OUT */
+.final-tiles-gallery.effect-fade-out .tile img {
+  transition: all 0.5s;
+  opacity: 1;
+}
+.final-tiles-gallery.effect-fade-out .tile:hover img {
+  opacity: .5;
+}
+/* EFFECT: ZOOM */
+.final-tiles-gallery.effect-zoom .tile img {
+  transition: all 0.5s;
+  -moz-transform: perspective(1000px) translate3d(0, 0, 0);
+  -webkit-transform: perspective(1000px) translate3d(0, 0, 0);
+  -ms-transform: perspective(1000px) translate3d(0, 0, 0);
+  transform: perspective(1000px) translate3d(0, 0, 0);
+  position: relative;
+  display: block;
+}
+.final-tiles-gallery.effect-zoom .tile:hover img {
+  -moz-transform: perspective(1000px) translate3d(-20px, -10px, 180px);
+  -webkit-transform: perspective(1000px) translate3d(0, 0, 180px);
+  -ms-transform: perspective(1000px) translate3d(-20px, -10px, 180px);
+  transform: perspective(1000px) translate3d(-20px, -10px, 180px);
+}
+/* EFFECT: DEZOOM */
+.final-tiles-gallery.effect-dezoom .tile:hover img {
+  opacity: .8;
+}
+.final-tiles-gallery.effect-dezoom .tile {
+  display: block;
+  background: #000;
+}
+.final-tiles-gallery.effect-dezoom .tile img {
+  opacity: 1;
+  transition: all 0.35s;
+  -moz-transform: scale(1.12);
+  -webkit-transform: scale(1.12);
+  -ms-transform: scale(1.12);
+  transform: scale(1.12);
+  display: block;
+}
+.final-tiles-gallery.effect-dezoom .tile:hover img {
+	-moz-transform: scale(1);
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+/* CAPTION TOP */
+.final-tiles-gallery.caption-top .tile:hover span {
+  opacity: .8;
+}
+.final-tiles-gallery.caption-top .tile:hover span.title {
+  top: 20px;
+  opacity: .9;
+}
+.final-tiles-gallery.caption-top .tile:hover span.subtitle {
+  top: 52px;
+}
+.final-tiles-gallery.caption-top .tile {
+  display: block;
+  background: #000;
+}
+.final-tiles-gallery.caption-top .tile span {
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  /*font-family: 'Lato', sans-serif;
+  display: block;*/
+  position: absolute;
+  width: 68%;
+  left: 20px;
+  color: #fff;
+  z-index: 10;
+  font-size: 18px;
+  opacity: 0;
+  transition: all .5s;
+}
+.final-tiles-gallery.caption-top .tile span.title {
+  font-weight: 500;
+  top: 25px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.final-tiles-gallery.caption-top .tile span.subtitle {
+  top: 70px;
+  font-size: 14px;
+  font-weight: 300;
+}
+/* CAPTION BOTTOM */
+.final-tiles-gallery.caption-bottom .tile:hover span {
+  opacity: .8;
+}
+.final-tiles-gallery.caption-bottom .tile:hover span.title {
+  bottom: 46px;
+  opacity: .9;
+}
+.final-tiles-gallery.caption-bottom .tile:hover span.subtitle {
+  bottom: 20px;
+}
+.final-tiles-gallery.caption-bottom .tile {
+  display: block;
+  background: #000;
+}
+.final-tiles-gallery.caption-bottom .tile span {
+  font-family: 'Lato', sans-serif;
+  display: block;
+  position: absolute;
+  width: 68%;
+  left: 20px;
+  color: #fff;
+  z-index: 10;
+  font-size: 18px;
+  opacity: 0;
+  transition: all .5s;
+}
+.final-tiles-gallery.caption-bottom .tile span.title {
+  font-weight: 900;
+  bottom: 70px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.final-tiles-gallery.caption-bottom .tile span.subtitle {
+  bottom: 0px;
+  font-size: 14px;
+  font-weight: 300;
+}
+/* EFFECT FRAME */
+.final-tiles-gallery.effect-frame .tile:hover:before {
+  opacity: 1;
+  -moz-transform: scale(1);
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+.final-tiles-gallery.effect-frame .tile:before {
+  opacity: 0;
+  border: 1px solid #fff;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  bottom: 10px;
+  right: 10px;
+  z-index: 10;
+  content: "";
+  display: block;
+  -moz-transform: scale(0.5);
+  -ms-transform: scale(0.5);
+  -webkit-transform: scale(0.5);
+  transform: scale(0.5);
+  transition: all .35s;
+}
+/* CAPTION BACKGROUND */
+.final-tiles-gallery.caption-bg .tile span {
+  background: #fff;
+  background: rgba(255, 255, 255, 0.7);
+  color: #333;
+  padding: 2px 6px;
+}
+/* SOCIAL ICONS BACKGROUND */
+.final-tiles-gallery.social-icons-bg .ftg-social {
+  background: #fff;
+  box-shadow: 0px 0px 10px #000;
+}
+.final-tiles-gallery.social-icons-bg .ftg-social a {
+  color: #333;
+}
+.final-tiles-gallery.social-icons-bg .ftg-social a:hover {
+  color: #555;
+}
+/* SOCIAL ICONS DARK BACKGROUND */
+.final-tiles-gallery.social-icons-bg.social-icons-bg-dark .ftg-social {
+  background: #333;
+}
+.final-tiles-gallery.social-icons-bg.social-icons-bg-dark .ftg-social a {
+  color: #333;
+}
+.final-tiles-gallery.social-icons-bg.social-icons-bg-dark .ftg-social a:hover {
+  color: #eee;
+}
+/* SOCIAL ICONS RIGHT */
+.final-tiles-gallery.social-icons-right .ftg-social {
+  width: 40px;
+  top: 0;
+  height: 100%;
+  right: -50px;
+}
+.final-tiles-gallery.social-icons-right .ftg-social a {
+  margin: 10px 0;
+  display: block;
+}
+.final-tiles-gallery.social-icons-right .tile:hover .ftg-social {
+  right: 0;
+}
+/* SOCIAL ICONS BOTTOM */
+.final-tiles-gallery.social-icons-bottom .ftg-social {
+  width: 100%;
+  bottom: -40px;
+  height: 30px;
+  text-align: right;
+}
+.final-tiles-gallery.social-icons-bottom .ftg-social a {
+  margin: 0 5px;
+  display: inline-block;
+}
+.final-tiles-gallery.social-icons-bottom .ftg-social a:last-of-type {
+  margin-right: 15px;
+}
+.final-tiles-gallery.social-icons-bottom .tile:hover .ftg-social {
+  bottom: 0;
+}
+.final-tiles-gallery.social-icons-bottom.social-icons-circle .ftg-social {
+  height: 36px;
+}
+.final-tiles-gallery.social-icons-bottom.social-icons-bg .ftg-social {
+  height: 40px;
+}
+.final-tiles-gallery.social-icons-bottom.social-icons-bg .ftg-social a {
+  margin: 10px 5px;
+}
+/* SOCIAL ICONS CIRCLE */
+.final-tiles-gallery.social-icons-circle .ftg-social a {
+  margin: 5px;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  line-height: 29px;
+  text-align: center;
+  display: inline-block;
+  background: #fff;
+  color: #333;
+}
+.final-tiles-gallery.social-icons-circle .ftg-social a:hover {
+  color: #fff;
+  background-color: #333;
+}
+code {
+  background: #eee;
+  padding: 2px;
+}
+pre {
+  padding: 6px;
+  background:#fafafa;
+}

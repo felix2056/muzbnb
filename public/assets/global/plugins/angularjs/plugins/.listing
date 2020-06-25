@@ -1,0 +1,7 @@
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:13 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:50 ..
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:36 angular-file-upload
+-rw-r--r--    1 256052   297237      32440 Nov 10 20:50 angular-ui-router.min.js
+-rw-r--r--    1 256052   297237      15377 Nov 10 20:51 ocLazyLoad.min.js
+-rw-r--r--    1 256052   297237     121209 Nov 10 20:50 ui-bootstrap-tpls.min.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:13 ui-select

@@ -1,0 +1,17 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:46 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:42 ..
+-rw-r--r--    1 256052   297237       2566 Nov 10 21:42 funnel.html
+-rw-r--r--    1 256052   297237      12017 Nov 10 21:42 gantt.html
+-rw-r--r--    1 256052   297237       2464 Nov 10 21:42 gauge.html
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:46 images
+-rw-r--r--    1 256052   297237       4537 Nov 10 21:42 index.html
+-rw-r--r--    1 256052   297237       8622 Nov 10 21:42 map.html
+-rw-r--r--    1 256052   297237       2570 Nov 10 21:42 pie1.html
+-rw-r--r--    1 256052   297237       2656 Nov 10 21:42 pie2.html
+-rw-r--r--    1 256052   297237       3858 Nov 10 21:42 pie3.html
+-rw-r--r--    1 256052   297237       2434 Nov 10 21:42 radar.html
+-rw-r--r--    1 256052   297237       7462 Nov 10 21:42 serial1.html
+-rw-r--r--    1 256052   297237       3225 Nov 10 21:42 serial2.html
+-rw-r--r--    1 256052   297237       3984 Nov 10 21:42 serial3.html
+-rw-r--r--    1 256052   297237       7919 Nov 10 21:42 stock.html
+-rw-r--r--    1 256052   297237       4490 Nov 10 21:42 xy.html

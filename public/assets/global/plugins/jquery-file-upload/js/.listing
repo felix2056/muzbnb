@@ -1,0 +1,16 @@
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:17 .
+drwxr-xr-x    7 256052   297237       4096 Nov 10 21:01 ..
+-rw-r--r--    1 256052   297237       3581 Nov 10 21:01 app.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:17 cors
+-rw-r--r--    1 256052   297237      16607 Nov 10 21:01 jquery.fileupload-angular.js
+-rw-r--r--    1 256052   297237       3532 Nov 10 21:01 jquery.fileupload-audio.js
+-rw-r--r--    1 256052   297237      11991 Nov 10 21:01 jquery.fileupload-image.js
+-rw-r--r--    1 256052   297237       5171 Nov 10 21:01 jquery.fileupload-jquery-ui.js
+-rw-r--r--    1 256052   297237       6097 Nov 10 21:01 jquery.fileupload-process.js
+-rw-r--r--    1 256052   297237      27848 Nov 10 21:01 jquery.fileupload-ui.js
+-rw-r--r--    1 256052   297237       4176 Nov 10 21:01 jquery.fileupload-validate.js
+-rw-r--r--    1 256052   297237       3532 Nov 10 21:01 jquery.fileupload-video.js
+-rw-r--r--    1 256052   297237      63666 Nov 10 21:01 jquery.fileupload.js
+-rw-r--r--    1 256052   297237      10723 Nov 10 21:01 jquery.iframe-transport.js
+-rw-r--r--    1 256052   297237       2477 Nov 10 21:01 main.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:17 vendor

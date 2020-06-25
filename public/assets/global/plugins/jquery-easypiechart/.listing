@@ -1,0 +1,8 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:34 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1085 Nov 10 20:34 LICENSE
+-rw-r--r--    1 256052   297237       7435 Nov 10 20:34 Readme.md
+-rw-r--r--    1 256052   297237       9735 Nov 10 20:34 angular.easypiechart.js
+-rw-r--r--    1 256052   297237       4229 Nov 10 20:34 angular.easypiechart.min.js
+-rw-r--r--    1 256052   297237       9066 Nov 10 20:34 jquery.easypiechart.js
+-rw-r--r--    1 256052   297237       3918 Nov 10 20:34 jquery.easypiechart.min.js

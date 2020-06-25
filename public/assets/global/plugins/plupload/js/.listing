@@ -1,0 +1,12 @@
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:07 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:46 ..
+-rw-r--r--    1 256052   297237      29349 Nov 10 20:46 Moxie.swf
+-rw-r--r--    1 256052   297237      62643 Nov 10 20:46 Moxie.xap
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:07 i18n
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:36 jquery.plupload.queue
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:36 jquery.ui.plupload
+-rw-r--r--    1 256052   297237     275163 Nov 10 20:46 moxie.js
+-rw-r--r--    1 256052   297237      93030 Nov 10 20:46 moxie.min.js
+-rw-r--r--    1 256052   297237      58521 Nov 10 20:46 plupload.dev.js
+-rw-r--r--    1 256052   297237     108764 Nov 10 20:46 plupload.full.min.js
+-rw-r--r--    1 256052   297237      15733 Nov 10 20:46 plupload.min.js

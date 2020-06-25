@@ -1,0 +1,8 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:18 .
+drwxr-xr-x   17 256052   297237       4096 Nov 10 21:18 ..
+-rw-r--r--    1 256052   297237       1543 Nov 10 21:18 autorefresh.js
+-rw-r--r--    1 256052   297237        116 Nov 10 21:18 fullscreen.css
+-rw-r--r--    1 256052   297237       1494 Nov 10 21:18 fullscreen.js
+-rw-r--r--    1 256052   297237       3844 Nov 10 21:18 panel.js
+-rw-r--r--    1 256052   297237       1971 Nov 10 21:18 placeholder.js
+-rw-r--r--    1 256052   297237       2090 Nov 10 21:18 rulers.js

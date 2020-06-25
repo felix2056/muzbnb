@@ -1,0 +1,7 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:09 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:48 ..
+-rw-r--r--    1 256052   297237      36935 Nov 10 20:48 additional-methods.js
+-rw-r--r--    1 256052   297237      17210 Nov 10 20:48 additional-methods.min.js
+-rw-r--r--    1 256052   297237      42630 Nov 10 20:48 jquery.validate.js
+-rw-r--r--    1 256052   297237      21090 Nov 10 20:48 jquery.validate.min.js
+drwxr-xr-x    2 256052   297237      12288 Nov 10 21:10 localization

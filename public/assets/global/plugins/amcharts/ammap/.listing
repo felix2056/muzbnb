@@ -1,0 +1,11 @@
+drwxr-xr-x    8 256052   297237       4096 Nov 10 21:26 .
+drwxr-xr-x    5 256052   297237       4096 Nov 10 20:46 ..
+-rw-r--r--    1 256052   297237       1265 Nov 10 20:46 ammap.css
+-rw-r--r--    1 256052   297237     146967 Nov 10 20:46 ammap.js
+-rw-r--r--    1 256052   297237      76027 Nov 10 20:46 ammap_amcharts_extension.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:05 images
+drwxr-xr-x    2 256052   297237      12288 Nov 10 21:04 lang
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:30 maps
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:25 patterns
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:26 plugins
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:04 themes

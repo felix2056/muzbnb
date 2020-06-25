@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>search_button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Muzbnb-home-header-3" transform="translate(-715.000000, -14.000000)">
+            <g id="header" transform="translate(0.000000, -23.000000)">
+                <g id="Group-9" transform="translate(346.000000, 33.000000)">
+                    <g id="search_button" transform="translate(369.000000, 4.000000)">
+                        <g id="Group-9">
+                            <circle id="Oval-2" fill="#F62C0F" cx="21" cy="21" r="21"></circle>
+                            <path d="M24.6390284,23.1077611 L30,28.1178043 L27.9907501,30 L22.6177678,24.9671381 C21.5601186,25.6108571 20.3181045,25.9816182 18.9895106,25.9816182 C15.1293105,25.9816182 12,22.8517264 12,18.9908091 C12,15.1298919 15.1293105,12 18.9895106,12 C22.8497107,12 25.9790212,15.1298919 25.9790212,18.9908091 C25.9790212,20.5299611 25.4817072,21.9529376 24.6390284,23.1077611 Z M18.9895106,22.9855572 C21.1953392,22.9855572 22.9835166,21.1970475 22.9835166,18.9908091 C22.9835166,16.7845707 21.1953392,14.996061 18.9895106,14.996061 C16.783682,14.996061 14.9955045,16.7845707 14.9955045,18.9908091 C14.9955045,21.1970475 16.783682,22.9855572 18.9895106,22.9855572 Z" id="icon-search-copy" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

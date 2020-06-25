@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Muzbnb-home" transform="translate(-13.000000, -5382.000000)">
+            <g id="influencers" transform="translate(13.000000, 5049.000000)">
+                <g id="arrows" transform="translate(0.000000, 333.000000)">
+                    <g id="arrow">
+                        <g id="left-arrow">
+                            <ellipse id="Oval-1" fill="#F5F5F5" cx="30" cy="30" rx="30" ry="30"></ellipse>
+                            <polygon id="Path-1" fill="#B3B3B3" points="20 30.0057575 30.5753746 40.0773469 31.970459 38.5660688 24.0167508 31.0132064 39.980835 31.0132066 39.980835 29.0268174 24.0167508 29.0268173 31.970459 21.536564 30.409318 20"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

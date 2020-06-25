@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="9px" viewBox="0 0 14 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>search-dropdown-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Muzbnb-home" transform="translate(-1189.000000, -778.000000)" fill="#F62C0F">
+            <g id="search-bar" transform="translate(134.000000, 747.000000)">
+                <g id="search-dropdown-arrow" transform="translate(1055.000000, 31.000000)">
+                    <polygon id="icon" transform="translate(7.000000, 4.500000) rotate(90.000000) translate(-7.000000, -4.500000) " points="3 11 5.96656621 11 11 4.61852045 5.96656628 -2 3 -1.94751049 7.91723533 4.57681004"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

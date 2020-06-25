@@ -1,0 +1,8 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:34 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       1151 Nov 10 20:34 LICENSE
+-rw-r--r--    1 256052   297237       4802 Nov 10 20:34 README.md
+-rw-r--r--    1 256052   297237        751 Nov 10 20:34 basic.min.css
+-rw-r--r--    1 256052   297237       9717 Nov 10 20:34 dropzone.min.css
+-rw-r--r--    1 256052   297237      32771 Nov 10 20:34 dropzone.min.js
+-rw-r--r--    1 256052   297237          0 Nov 10 20:34 upload.php

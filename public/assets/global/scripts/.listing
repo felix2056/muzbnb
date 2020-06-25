@@ -1,0 +1,6 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:20 .
+drwxr-xr-x    6 256052   297237       4096 Nov 10 20:20 ..
+-rw-r--r--    1 256052   297237      37509 Nov 10 20:20 app.js
+-rw-r--r--    1 256052   297237      15511 Nov 10 20:20 app.min.js
+-rw-r--r--    1 256052   297237      12469 Nov 10 20:20 datatable.js
+-rw-r--r--    1 256052   297237       4857 Nov 10 20:20 datatable.min.js

@@ -1,0 +1,20 @@
+.messages {
+    .threads {
+        min-height: 500px;
+    }
+    .chat-log {
+        min-height: 480px;
+    }
+    .chat-composer
+    {
+      display: flex;
+    }
+    .chat-composer input
+    {
+      flex:1 auto;
+    }
+    .chat-composer button
+    {
+      border-radius: 0px;
+    }
+}

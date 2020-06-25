@@ -1,0 +1,5 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 20:34 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       7100 Nov 10 20:34 README.md
+-rw-r--r--    1 256052   297237       1047 Nov 10 20:34 bootstrap-datepaginator.min.css
+-rw-r--r--    1 256052   297237       9474 Nov 10 20:34 bootstrap-datepaginator.min.js

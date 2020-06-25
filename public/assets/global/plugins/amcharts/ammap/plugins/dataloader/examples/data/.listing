@@ -1,0 +1,12 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:43 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:43 ..
+-rw-r--r--    1 256052   297237     184186 Nov 10 21:43 MSFT.csv
+-rw-r--r--    1 256052   297237       3347 Nov 10 21:43 MSFT_events.csv
+-rw-r--r--    1 256052   297237     182707 Nov 10 21:43 TXN.csv
+-rw-r--r--    1 256052   297237        425 Nov 10 21:43 gauge.json
+-rw-r--r--    1 256052   297237       3219 Nov 10 21:43 map.json
+-rw-r--r--    1 256052   297237        131 Nov 10 21:43 pie.csv
+-rw-r--r--    1 256052   297237        348 Nov 10 21:43 pie.json
+-rw-r--r--    1 256052   297237        381 Nov 10 21:43 serial.csv
+-rw-r--r--    1 256052   297237       1548 Nov 10 21:43 serial.json
+-rw-r--r--    1 256052   297237        338 Nov 10 21:43 serial2.json

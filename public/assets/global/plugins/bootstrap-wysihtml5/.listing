@@ -1,0 +1,7 @@
+drwxr-xr-x    3 256052   297237       4096 Nov 10 21:00 .
+drwxr-xr-x   98 256052   297237      12288 Nov 10 21:03 ..
+-rw-r--r--    1 256052   297237       2333 Nov 10 20:33 bootstrap-wysihtml5.css
+-rw-r--r--    1 256052   297237      23436 Nov 10 20:33 bootstrap-wysihtml5.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:00 locales
+-rw-r--r--    1 256052   297237     332114 Nov 10 20:34 wysihtml5-0.3.0.js
+-rw-r--r--    1 256052   297237       1108 Nov 10 20:33 wysiwyg-color.css

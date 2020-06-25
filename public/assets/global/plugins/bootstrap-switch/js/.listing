@@ -1,0 +1,4 @@
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:00 .
+drwxr-xr-x    4 256052   297237       4096 Nov 10 21:00 ..
+-rw-r--r--    1 256052   297237      25530 Nov 10 21:00 bootstrap-switch.js
+-rw-r--r--    1 256052   297237      14903 Nov 10 21:00 bootstrap-switch.min.js

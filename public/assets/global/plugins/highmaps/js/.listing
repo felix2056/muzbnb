@@ -1,0 +1,9 @@
+drwxr-xr-x    5 256052   297237       4096 Nov 10 21:09 .
+drwxr-xr-x    3 256052   297237       4096 Nov 10 20:47 ..
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:09 adapters
+-rw-r--r--    1 256052   297237     165037 Nov 10 20:48 highcharts.js
+-rw-r--r--    1 256052   297237     510864 Nov 10 20:48 highcharts.src.js
+-rw-r--r--    1 256052   297237     178895 Nov 10 20:48 highmaps.js
+-rw-r--r--    1 256052   297237     535945 Nov 10 20:48 highmaps.src.js
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:09 modules
+drwxr-xr-x    2 256052   297237       4096 Nov 10 21:08 themes

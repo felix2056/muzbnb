@@ -1,0 +1,64 @@
+.mt-repeater.no-extra-space {
+    display: block;
+    width: auto;
+}
+.mt-repeater.no-extra-space .mt-repeater-row {
+    margin-right: 0;
+    clear: both;
+    overflow: hidden;
+}
+.mt-repeater.no-extra-space .control-label {
+    margin-bottom: 8px;
+}
+.mt-repeater.no-extra-space .mt-repeater-delete {
+    margin-top: 35px;
+}
+.mt-repeater.no-extra-space .mt-repeater-item {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 0;
+}
+.mt-repeater.no-extra-space > div > div:last-child {
+	margin-bottom: 15px;
+}
+.vmaps {
+    height: 462px;
+}
+.vmaps > svg{
+    height: 470px;
+    margin: 0 auto;
+    display: block;
+}
+.easy-pie-chart .number canvas {
+    width: 140px;
+}
+.easy-pie-chart .number {
+    width: 140px;
+    height: 140px;
+    line-height: 140px;
+}
+canvas {
+    image-rendering: optimizeSpeed; 
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: -o-crisp-edges; 
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+.laxmi-mata > div.chart {
+    overflow: inherit;
+    height: 342px;
+}
+.laxmi-mata table{
+    top: inherit !important;
+    right: inherit !important;
+    bottom: -42px;
+    left: 15px;
+}
+.laxmi-mata table tr {
+    display: inline-block;
+    margin-right: 10px;
+}
+.laxmi-mata table tr td.legendColorBox > div {
+    margin-right: 10px;
+}
