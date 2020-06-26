@@ -15,8 +15,9 @@
 Auth::routes();
 
 Route::get('/broadcast', function() {
-    $image = '/imagetest.jpg';
-    $path = $image->storeAs('public/chat_photos/', 'imagetest');
+    $message = \App\Model\Message::find(1);
+
+    event(new \App\Events\NewMessage($message));
     return 'ok';
 });
 
