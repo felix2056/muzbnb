@@ -131,19 +131,15 @@ class User extends Authenticatable
         }
     }
 
-    public function getAvatarUrlAttribute($version = null)
+    public function getAvatarUrlAttribute()
     {
         $path = '/images/user/';
-        if($version) {
-            $version .= '_';
-        } else {
-            $version = '';
-        }
+
 //        return $path . $version . $this->profile->avatar;
-        if(file_exists(base_path('public') . $path . $version . $this->profile->avatar)) {
-            return url('') . $path . $version . $this->profile->avatar;
+        if(file_exists(base_path('public') . $path  . $this->profile->avatar)) {
+            return url('') . $path  . $this->profile->avatar;
         } else {
-            return url('') . $path . $version . 'no-user.jpg';
+            return url('') . $path  . 'no-user.jpg';
         }
     }
 
