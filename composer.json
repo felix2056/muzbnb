@@ -9,12 +9,16 @@
     "license": "MIT",
     "require": {
         "php": "^7.2.5",
+        "braintree/braintree_php": "^5.2",
         "chriskonnertz/open-graph": "^2.0",
         "fideloper/proxy": "^4.2",
+        "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
         "jackiedo/timezonelist": "^5.0",
-        "laravel/framework": "^5.8",
+        "laravel/framework": "^7.0",
         "laravel/socialite": "^4.4",
+        "laravel/tinker": "^2.0",
+        "laravel/ui": "^2.0",
         "laravelcollective/html": "^6.1",
         "nesbot/carbon": "^2.35",
         "nicolaslopezj/searchable": "^1.13",
@@ -23,7 +27,9 @@
         "predis/predis": "^1.1",
         "pusher/pusher-php-server": "^4.1",
         "sparkpost/sparkpost": "^2.2",
-        "stripe/stripe-php": "^7.37"
+        "stripe/stripe-php": "^7.37",
+        "twilio/sdk": "^6.8",
+        "unisharp/laravel-filemanager": "^2.1"
     },
     "require-dev": {
         "facade/ignition": "^2.0",
