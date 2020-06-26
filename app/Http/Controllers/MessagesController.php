@@ -323,7 +323,6 @@ class MessagesController extends Controller
             }
 
             $message['user'] = User::find($message->user_id);
-            $message['user']['avatar'] = $message['user']->photo();
         }
 
         return response()->json(['messages' => $messages]);
