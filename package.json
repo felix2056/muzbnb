@@ -29,7 +29,7 @@
         "laravel-echo": "^1.8.0",
         "mini-toastr": "^0.6.5",
         "pusher-js": "^6.0.3",
-        "socket.io": "^1.7.3",
+        "socket.io": "^4.5.3",
         "socket.io-client": "^1.7.3",
         "vue-notifications": "^0.8.0",
         "vue-socket.io": "^2.1.1",
